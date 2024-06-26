@@ -47,6 +47,9 @@ public class TestExecution : PageTest
         await checkoutPage.Details("Vivek", "Rai", "abc123");
 
         await checkoutPage.Continue();
+        string actual_name = await checkoutOverview.GetItemName();
+        Assert.That(actual_name, Is.EqualTo(exp_name));
+
         await checkoutOverview.clickFinish();
 
         string exp_succ_msg = "Thank you for your order!";

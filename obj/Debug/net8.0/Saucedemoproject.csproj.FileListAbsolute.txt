@@ -403,3 +403,4 @@ C:\Users\Aman\Saucedemoproject\obj\Debug\net8.0\refint\Saucedemoproject.dll
 C:\Users\Aman\Saucedemoproject\obj\Debug\net8.0\Saucedemoproject.pdb
 C:\Users\Aman\Saucedemoproject\obj\Debug\net8.0\Saucedemoproject.genruntimeconfig.cache
 C:\Users\Aman\Saucedemoproject\obj\Debug\net8.0\ref\Saucedemoproject.dll
+C:\Users\Aman\Saucedemoproject\obj\Debug\net8.0\Saucedemoproject.sourcelink.json
